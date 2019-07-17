@@ -4,8 +4,12 @@ The [Robaux SWT16+](https://robaux.io/swt16plus) comes with a very extensive fir
 
 ## Versions
 
-### Version 0.46 
-#### New 
+### Version 0.47
+#### Bugfix
+* Misc
+
+### Version 0.46
+#### New
 ##### Values Mode
 * Trigger Mod
 * Output Routing
@@ -15,11 +19,11 @@ The [Robaux SWT16+](https://robaux.io/swt16plus) comes with a very extensive fir
 ##### Util Mode
 * Press the Copy button to display the current firmware version.
 
-### Version 0.33 
+### Version 0.33
 #### Bugfix
 * Random Mode
 
---- 
+---
 
 ## Update your Module
 
@@ -29,9 +33,9 @@ To transfer a firmware update you need a computer with a serial USB interface. S
 
 You also need the transfer program [AVRDude](https://typeunsafe.wordpress.com/2011/07/22/programming-arduino-with-avrdude/) which comes with the [Arduino software](https://www.arduino.cc/en/main/software). AVRDude is a command line utility. But there are also graphical interfaces, for example [HexUploader](http://paulkaplan.me/HexUploader/).
 
-The [Update](https://github.com/robaux/swt16plus/tree/master/update) folder contains the firmware hex files which you can transfer to the device. 
+The [Update](https://github.com/robaux/swt16plus/tree/master/update) folder contains the firmware hex files which you can transfer to the device.
 
-Select the version you want to transfer. Connect your Robaux SWT16+ to your serial port as shown in the pictures. 
+Select the version you want to transfer. Connect your Robaux SWT16+ to your serial port as shown in the pictures.
 
 Select your serial interface in AVRDude or a corresponding program as well as the HEX file and transfer it to the Robaux SWT16+. If you have any questions, please contact update@robaux.io
 
