@@ -4,7 +4,7 @@ The [Robaux SWT16+](https://robaux.io/swt16plus) comes with a very extensive fir
 
 ## Versions
 
-### Version 0.47
+### Version 0.50
 #### Bugfix
 * Misc
 
