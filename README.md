@@ -42,7 +42,7 @@ Select your serial interface in AVRDude or a corresponding program as well as th
 
 ---
 
-![Updating using a Arduino Uno](https://robaux.io/update/swt16plus/updatingArduinoUno.jpg)
+![Updating using a Arduino Uno](https://robaux.io/update/swt16plus/updatingArduinoUno3.jpg)
 
 ---
 
