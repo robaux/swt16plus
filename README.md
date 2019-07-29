@@ -31,7 +31,7 @@ The [Robaux SWT16+](https://robaux.io/swt16plus) comes with a very extensive fir
 
 To transfer a firmware update you need a computer with a serial USB interface. Since the heart of the sequencer is an ATMega328, especially an [Arduino UNO](https://store.arduino.cc/arduino-uno-rev3) is excellent. But it also work with standard interfaces such as FT232 or similar.
 
-You also need the transfer program [AVRDude](https://typeunsafe.wordpress.com/2011/07/22/programming-arduino-with-avrdude/) which comes with the [Arduino software](https://www.arduino.cc/en/main/software). AVRDude is a command line utility. But there are also graphical interfaces, for example [HexUploader](http://paulkaplan.me/HexUploader/).
+You also need the transfer program [AVRDude](https://typeunsafe.wordpress.com/2011/07/22/programming-arduino-with-avrdude/) which comes with the [Arduino software](https://www.arduino.cc/en/main/software). AVRDude is a command line utility. But there are also graphical interfaces, for example [HexUploader](http://paulkaplan.me/HexUploader/) (Mac) or [Xloader](http://xloader.russemotto.com/) (Windows).
 
 The [Update](https://github.com/robaux/swt16plus/tree/master/update) folder contains the firmware hex files which you can transfer to the device.
 
